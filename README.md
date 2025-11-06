@@ -62,8 +62,6 @@ A Python-based GUI application that allows users to securely hide and retrieve e
 - Python 3.x
 - The libraries listed 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
